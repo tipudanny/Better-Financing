@@ -1,0 +1,89 @@
+:root{
+    --primaryColor:rgb(41, 161, 218);
+    --secondaryColor:#4d5858;
+    --tertiaryColor:#08b475;
+    --bannerTitleFont: 40px;
+    --sectionTitleFont:40px;
+    --paragraphFont:16px;
+    --menuItemFont: 18px;
+    --fontWeight300:300;
+    --fontWeight400:400;
+    --fontWeight500:500;
+    --fontWeight600:600;
+    --fontWeight700:700;
+}
+*{
+    //font-family: 'roboto';
+}
+
+body{
+    color:var(--secondaryColor);
+}
+.custom-container{
+    max-width: 1140px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.section-title-text {
+    font-size: var(--sectionTitleFont);
+    font-weight: var(--fontWeight500);
+}
+.section-subtitle-text{
+    font-size: var(--paragraphFont);
+    font-weight: var(--fontWeight500);
+}
+.section-padding{
+    padding: 60px 0;
+}
+.common-text{
+    font-size: var(--paragraphFont400);
+    font-weight: var(--fon);
+    line-height: 26px;
+}
+button{
+    outline: none !important;
+    border: none;
+    box-shadow: none !important;
+}
+/* svg */
+.a {
+    fill: none;
+}
+
+.b {
+    clip-path: url(#a);
+}
+
+.c {
+    fill: rgba(0, 0, 0, 0);
+}
+
+.d {
+    fill: #08a054;
+}
+/* svg */
+
+
+.default-btn, .zip-code-btn{
+    background-color: var(--primaryColor);
+    border-radius: 27px;
+    padding: 13px 60px;
+    margin-top: 20px;
+    outline: 0;
+    color: #fff;
+    text-decoration: none;
+}
+.zip-code-btn{
+    background-color: var(--tertiaryColor);
+    min-width: 200px;
+    font-weight: 500;
+    box-shadow: 0 10px 20px rgb(11,50,69,.22);
+}
+.default-btn:hover{
+    color:#fff;
+}
+
+@media(min-width:768px){
+
+}

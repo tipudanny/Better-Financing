@@ -1,0 +1,119 @@
+.fixed-top {
+    position: sticky;
+    background-color: transparent !important;
+}
+
+.navbar {
+    height: 90px;
+    padding: .5rem 1rem;
+}
+
+.navbar-nav {
+    display: -webkit-inline-box !important;
+}
+
+.nav-item {
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
+    letter-spacing: 1px;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+}
+
+.nav-link {
+    padding-right: 0.5rem !important;
+    padding-left: 0.5rem !important;
+    color: #FFFFFF !important;
+    font-weight: 500;
+    font-family: system-ui;
+}
+
+.collapse-btn {
+    display: flex;
+    align-items: center;
+}
+
+.apply-btn {
+    margin-right: 10px;
+    color: #FFFFFF;
+    border: 2px solid #FFFFFF;
+    outline: 0;
+    border-radius: 27px !important;
+    padding: 6px 30px;
+    width: auto;
+    min-width: 180px;
+    font-size: 20px;
+}
+
+.navbar-toggler {
+    border: none;
+}
+
+.navbar-toggler:focus {
+    outline: none !important;
+    text-decoration: none;
+    box-shadow: none;
+}
+
+.change_nav_color {
+    background-color: #fff !important;
+    box-shadow: 0 4px 6px -6px #222;
+
+    .nav-link {
+        color: #4d5858 !important;
+    }
+
+    .apply-btn {
+        color: #29a1da;
+        border: 2px solid #29a1da;
+    }
+
+    path {
+        fill: #4d5858;
+    }
+}
+
+@media (max-width: 1366px) {
+    .navbar-nav {
+        display: none !important;
+    }
+    .navbar {
+        background-color: #fff !important;
+        box-shadow: 0 4px 6px -6px #222;
+
+        .nav-link {
+            color: #4d5858 !important;
+        }
+
+        .apply-btn {
+            color: #29a1da;
+            border: 2px solid #29a1da;
+        }
+
+        path {
+            fill: #4d5858;
+        }
+    }
+}
+
+@media (max-width: 991px) {
+    .navbar-brand{
+        max-width: 120px;
+    }
+    .apply-btn {
+        font-size: 15px;
+        text-align: center;
+        min-width: 130px;
+    }
+}
+
+@media (max-width: 575px) {
+    .navbar-brand{
+        max-width: 100px;
+    }
+    .apply-btn {
+        font-size: 11px;
+        text-align: center;
+        max-width: 130px;
+    }
+}
