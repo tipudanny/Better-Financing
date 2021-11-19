@@ -14,7 +14,7 @@
                 Please also review the Consumer Privacy Notice and Opt-Out Form(s).  By using the Site, you agree to this Privacy Policy.  You also agree to our collection, use, disclosure, and storage of your information as described in this Privacy Policy.  If you do not agree to the terms of this Privacy Policy, please do not provide us with any Personal Information and do not use this Site.
                 <br>
                 <br>
-                “Site” means and includes www.loanme.com  and any and all interactive features, content, downloads, and other electronic services maintained by LoanMe.  LoanMe and all of its subsidiaries and affiliates are hereby referred to as “we,” “us,” or “our.”
+                “Site” means and includes www.Better Financing.com  and any and all interactive features, content, downloads, and other electronic services maintained by Better Financing.  Better Financing and all of its subsidiaries and affiliates are hereby referred to as “we,” “us,” or “our.”
             </p>
             <h4> What types of personal information do we collect through our Site? </h4>
             <p>
@@ -34,7 +34,7 @@
                 </ul>
             </div>
             <p>
-                We collect Personal Information when you visit our Site, fill out a form on our website, subscribe to any newsletters or blogs we may offer, and of course when you apply for a loan from LoanMe.
+                We collect Personal Information when you visit our Site, fill out a form on our website, subscribe to any newsletters or blogs we may offer, and of course when you apply for a loan from Better Financing.
             </p>
             <br>
             <p>
@@ -95,8 +95,8 @@
             <p>We reserve the right to change or replace this Privacy Policy at our sole discretion at any time. In the event this Privacy Policy should materially change, we will generally notify our users by posting a notice of such change on our Site. Your continued use of any of the Site following the posting of changes to our Privacy Policy means you accept those changes.</p>
             <h4>Contact us.</h4>
             <p>For questions about our Privacy Policy, please contact us at:</p>
-            <p>Privacy Support E-Mail: privacy@loanme.com</p>
-            <p>Postal Address: LoanMe</p>
+            <p>Privacy Support E-Mail: privacy@Better Financing.com</p>
+            <p>Postal Address: Better Financing</p>
             <p>Attn: Privacy</p>
             <p>1900 S. State College Blvd, Ste 300</p>
             <p>Anaheim, CA 92806</p>

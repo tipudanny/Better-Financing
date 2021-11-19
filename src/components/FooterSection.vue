@@ -15,7 +15,7 @@
                         </router-link>
                     </div>
                     <div class="footer-text">
-                        <p>© 2021 LoanMe. All Rights Reserved. 1900 S. State College Boulevard, Suite 300, Anaheim, CA
+                        <p>© 2021 Better Financing. All Rights Reserved. 1900 S. State College Boulevard, Suite 300, Anaheim, CA
                             92806</p>
                     </div>
                     <div class="footer-social">
@@ -65,13 +65,13 @@
                 </div>
                 <div class="col-md-7 footer-bottom-info">
                     <p>
-                        Where loans are offered by LoanMe, credit approval is subject to LoanMe’s credit standards.  Terms (including loan amount) may vary by applicant.  LoanMe loans, where required, are made pursuant to its lending licenses.  For example, California loans are made or arranged pursuant to a California Finance Lenders Law license #603K061.
+                        Where loans are offered by Better Financing, credit approval is subject to Better Financing’s credit standards.  Terms (including loan amount) may vary by applicant.  Better Financing loans, where required, are made pursuant to its lending licenses.  For example, California loans are made or arranged pursuant to a California Finance Lenders Law license #603K061.
                     </p>
                     <p>
-                        Texas residents: LoanMe is a registered Texas Credit Services Organization and operates as a licensed Credit Access Business (CAB). The lender, PCAM CREDIT VIII, LLC, is an unaffiliated third party.
+                        Texas residents: Better Financing is a registered Texas Credit Services Organization and operates as a licensed Credit Access Business (CAB). The lender, PCAM CREDIT VIII, LLC, is an unaffiliated third party.
                     </p>
                     <div>
-                        Terms and Conditions: Offers provided to customers who originated via a paid Google or Bing advertisement feature terms on LoanMe Prime of:
+                        Terms and Conditions: Offers provided to customers who originated via a paid Google or Bing advertisement feature terms on Better Financing Prime of:
                         <div><strong> Minimum APR: </strong> 35.97%</div>
                         <div><strong> Maximum APR: </strong> 35.97%</div>
                         <div><strong> Maximum Loan Repayment Term: </strong> 60 Months</div>
@@ -99,5 +99,7 @@ export default {
 </script>
 
 <style scoped>
-
+.footer-logo img{
+    width: 150px;
+}
 </style>

@@ -1,0 +1,67 @@
+/* 
+--------------------------------
+        start breadcrumb
+--------------------------------
+*/
+.breadcrumb-section{
+    background:url(../images/breadcrumb/hero-bg-09-1.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding:100px;
+}
+.breadcrumb-title{
+    color: rgb(255, 255, 255);
+    font-size: var(--sectionTitleFont);
+    font-weight: var(--fontWeight400);
+}
+.card{
+    box-shadow: 0 15px 30px rgb(0,0,0,.16);
+    border-radius: 8px;
+    border: none;
+    max-width: 400px;;
+    margin: 0 auto;
+}
+.criteria-title-text {
+    font-size: var(--cartTitle); font-weight: var(--fontWeight400)
+}
+.criteria-subtitle-text{
+    font-size: var(--cartSubTitle);
+    font-weight: var(--fontWeight500)
+}
+.howitwork-card-nav-item {
+    font-size: var(--cardNavItem);
+}
+.howitwork-card-nav-item:not(:last-child){
+    margin-bottom: 3px;
+}
+.requirment-icon-text {
+    font-size: 14px;
+    margin-top: 10px;
+    font-weight: var(--fontWeight500);
+}
+.howitwork-bottom-text {
+    max-width: 450px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 12px;
+    padding: 20px;
+    line-height: 18px;
+}
+/* 
+--------------------------------
+        end breadcrumb
+--------------------------------
+*/
+
+@media(min-width:768px){
+    .card{
+        max-width: auto;
+        padding: 20px;
+    }
+}
+@media(min-width:992px){
+    .card{
+        padding: 30px;
+    }
+}

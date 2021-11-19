@@ -1,0 +1,141 @@
+/* 
+--------------------------------
+        start about 
+--------------------------------
+*/
+.about-us-section {
+    background-image: url(../images/lm-about-us-hero-mobile-3.jpg);
+    padding: 80px 0;
+    background-size: cover;
+    min-height: 520px;
+    background-position: center;
+    position: relative;
+    width: 100%;
+}
+
+.about-us-section::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, .2);
+}
+
+.about-banner-title {
+    font-size: var(--aboutBannerFont);
+    position: relative;
+    z-index: 1;
+}
+
+/* 
+--------------------------------
+        end about
+--------------------------------
+*/
+
+
+/* 
+--------------------------------
+    start about advisory 
+--------------------------------
+*/
+.about-page-advisory-section {
+    background-color: rgb(223, 165, 38);
+}
+
+.about-page-advisory-text {
+    font-size: var(--fontSize18);
+    font-weight: var(--fontWeight500);
+}
+
+.about-page-advisory-subtext {
+    font-size: var(--fontSize14);
+    line-height: 22px;
+}
+
+.about-page-advisory-subtitle {
+    font-size: var(--fontSize15);
+    font-weight: var(--fontWeight600);
+}
+
+/* 
+--------------------------------
+    end about advisory 
+--------------------------------
+*/
+
+
+/* 
+--------------------------------
+    start about page inquiries 
+--------------------------------
+*/
+.about-page-inquiries-left p {
+    font-weight: var(--fontWeight500);
+}
+
+.about-page-inquiries-right a {
+    font-weight: var(--fontWeight500);
+    color: var(--primaryColor)
+}
+
+/*
+--------------------------------
+    end about page inquiries 
+--------------------------------
+*/
+
+
+/*
+--------------------------------
+  start about page pre qualified
+--------------------------------
+*/
+.about-page-pre-qualified-section {
+    background: url(../images/blue-gradient-bg.jpg);
+    padding: 80px 0;
+    background-size: cover;
+    min-height: 520px;
+    background-position: center;
+    width: 100%;
+}
+
+.about-page-qulified-title {
+    font-size: var(--aboutQulified);
+
+}
+
+.about-page-qulified-content .common-text {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+/*
+--------------------------------
+  end about page pre qualified
+--------------------------------
+*/
+
+@media (min-width: 768px) {
+    .about-us-section {
+        background-image: url(../images/lm-about-us-hero-tablet-3.jpg);
+        padding: 50px 0;
+        min-height: 865px;
+    }
+
+    .about-page-pre-qualified-section {
+        min-height: 865px;
+    }
+}
+
+@media (min-width: 992px) {
+    .about-us-section {
+        background-image: url(../images/lm-about-us-hero-desktop-31.jpg);
+    }
+
+    .about-page-pre-qualified-section {
+        padding: 50px 0;
+    }
+}

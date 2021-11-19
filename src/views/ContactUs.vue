@@ -14,7 +14,7 @@
                     <div><a style="color: #4d5858;font-size: 18px;" href="tel:8447647368">(844)
                         764-7368</a><br>
                         <a style="color: #29a1da;font-size: 16px;"
-                           href="mailto:Customer.Service@loanme.com">Customer.Service@loanme.com</a></div>
+                           href="mailto:Customer.Service@Better Financing.com">Customer.Service@Better Financing.com</a></div>
                 </div>
                 <div class="apply-to-loan-content">
                     <h3 style="color: #4d5858;margin-top: 30px;font-size: 25px;font-weight: 500">Apply for a Loan</h3>
@@ -62,16 +62,16 @@
                             style="color: #29a1da;font-size: 16px;" href="tel:8333883265">(833)
                             388-3265</a> or email your complaint to <a
                             style="color: #29a1da;font-size: 16px;"
-                            href="mailto:complaints@loanme.com">complaints@loanme.com</a>. Please include your account
+                            href="mailto:complaints@Better Financing.com">complaints@Better Financing.com</a>. Please include your account
                         number on all correspondences. We will respond to all voicemail messages and e-mails as soon as
                         possible – in most cases within 24 hours after your complaint has been reported.</p>
                 </div>
                 <div class="careers-content">
                     <h3 style="color: #4d5858;margin-top: 30px;font-size: 25px;font-weight: 500">Careers</h3>
                     <p style="color: #4d5858;font-size: 16px;">Does a smart, creative, and
-                        competitive environment bring out your best? LoanMe could be the place for you. Take a look at
+                        competitive environment bring out your best? Better Financing could be the place for you. Take a look at
                         our listing of <a style="color: #29a1da;font-size: 16px;"
-                                          href="https://careers-loanme.icims.com/jobs/intro?hashed=-626005973">open
+                                          href="https://careers-Better Financing.icims.com/jobs/intro?hashed=-626005973">open
                             positions</a>.</p>
                 </div>
             </div>
@@ -80,17 +80,17 @@
                     <h2 style="color: #29a1da;margin-top: 80px;font-size: 35px;font-weight: 500">By Mail</h2>
                     <hr>
                     <h3 style="color: #4d5858;margin-top: 30px;font-size: 25px;font-weight: 500">General Inquiries</h3>
-                    <div>LoanMe<br>
+                    <div>Better Financing<br>
                         1900 S. State College Boulevard<br>
                         Suite 300<br>
                         Anaheim, CA 92806<br>
                         <a style="color: #29a1da;font-size: 16px;"
-                           href="mailto:Customer.Service@loanme.com">Customer.Service@loanme.com</a></div>
+                           href="mailto:Customer.Service@Better Financing.com">Customer.Service@Better Financing.com</a></div>
                 </div>
                 <div class="withdrawals-content">
                     <h3 style="color: #4d5858;margin-top: 30px;font-size: 25px;font-weight: 500">For making payment or
                         cancelling automatic EFT withdrawals</h3>
-                    <div>LoanMe<br>
+                    <div>Better Financing<br>
                         Attn: Payment Processing<br>
                         1900 S. State College Blvd.<br>
                         Suite #300, Anaheim CA 92806
@@ -99,7 +99,7 @@
                 <div class="withdrawals-content">
                     <h3 style="color: #4d5858;margin-top: 30px;font-size: 25px;font-weight: 500">Walk-In Payments</h3>
                     <div>
-                        <p>LoanMe will be open for walk-in payments beginning Monday, August 17, 2020.</p>
+                        <p>Better Financing will be open for walk-in payments beginning Monday, August 17, 2020.</p>
                         <p>Hours:<br>
                             9am to 5pm Monday – Friday (Closed on Holidays)</p>
                         <ul>
@@ -122,7 +122,7 @@
                 <div class="moneygram-content">
                     <h3 style="color: #4d5858;margin-top: 30px;font-size: 25px;font-weight: 500">MoneyGram</h3>
                     <div>Receive Code: 15049<br>
-                        Company Name: LoanMe<br>
+                        Company Name: Better Financing<br>
                         City: Orange<br>
                         State: CA<br>
                         (only $6.99 for our customers)
@@ -131,7 +131,7 @@
                 <div class="w-union-speedpay-content">
                     <h3 style="color: #4d5858;margin-top: 30px;font-size: 25px;font-weight: 500">ACI PAY, a service of
                         ACI Payments, Inc.</h3>
-                    <div><a href="https://paynow40.speedpay.com/LoanMe/login.aspx" target="_blank"
+                    <div><a href="https://paynow40.speedpay.com/Better Financing/login.aspx" target="_blank"
                             rel="noopener noreferrer">
                         <button class="w-union-speedpay-button"
                                 style="color: #29a1da;font-size: 16px;;border: none;background-color: transparent;padding-left: 0px"
@@ -160,7 +160,7 @@
                         <p><a style="color: #4d5858;font-size: 18px;" href="tel:9495359150">(949)
                             535-9150</a><br>
                             <a style="color: #29a1da;font-size: 16px;"
-                               href="mailto:Customer.Service@loanme.com">Customer.Service@loanme.com</a></p>
+                               href="mailto:Customer.Service@Better Financing.com">Customer.Service@Better Financing.com</a></p>
                     </div>
                 </div>
             </div>

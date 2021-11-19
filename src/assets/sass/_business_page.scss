@@ -1,0 +1,30 @@
+.business-loan-page{
+    .hero-area{
+        background-image: url(../images/business-bg-desk.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+        min-height: 865px;
+        margin-top: -90px;
+        clear: both;
+
+    }
+    .sub-title-text{
+        color: #FFFFFF;
+    }
+    @media (max-width: 991px) {
+        .hero-area{
+            background-image: url(../images/business-bg-tab.jpg);
+        }
+    }
+    @media (max-width: 767px) {
+        .hero-area{
+            background-image: url(../images/business-bg-mobi.jpg);
+        }
+    }
+.about-page-pre-qualified-section{
+    background-image: url(../images/business-footer-bg.jpg);
+    min-height: 765px;
+    background-size: cover;
+}
+}

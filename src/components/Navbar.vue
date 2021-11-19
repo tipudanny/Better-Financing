@@ -32,19 +32,13 @@
 
             <ul class="navbar-nav">
                 <li class="nav-item me-2">
-                    <router-link to="/business-loans" class="nav-link">Loans</router-link>
+                    <router-link to="/" class="nav-link">Home</router-link>
+                </li>
+                <li class="nav-item me-2">
+                    <router-link to="/business-loans" class="nav-link">Business Loans</router-link>
                 </li>
                 <li class="nav-item me-2 ml-2">
                     <router-link to="/howitworks" class="nav-link">How it Works</router-link>
-                </li>
-                <li class="nav-item me-2 ml-2">
-                    <a class="nav-link" href="#">(844) 956-2663</a>
-                </li>
-                <li class="nav-item me-2 ml-2">
-                    <a class="nav-link" href="#">Español</a>
-                </li>
-                <li class="nav-item me-2 ml-2">
-                    <a class="nav-link" href="#">Login</a>
                 </li>
             </ul>
             <div class="collapse-btn">
@@ -134,5 +128,7 @@ export default {
 </script>
 
 <style scoped>
-
+.navbar-brand{
+    width: 150px;
+}
 </style>
