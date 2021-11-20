@@ -59,40 +59,141 @@
                 </button>
             </div>
 
-            <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar"
-                 aria-labelledby="offcanvasNavbarLabel">
+            <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
                 <div class="offcanvas-header">
-                    <h5 class="offcanvas-title" id="offcanvasNavbarLabel">Offcanvas</h5>
-                    <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas"
-                            aria-label="Close"></button>
+                    <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas"></button>
                 </div>
-                <div class="offcanvas-body">
-                    <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
-                        <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="#">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Link</a>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="offcanvasNavbarDropdown" role="button"
-                               data-bs-toggle="dropdown" aria-expanded="false">
-                                Dropdown
+                <div class="offcanvas-body p-0">
+                    <div class="offcanvas-menu">
+                        <ul class="offcanvas-nav">
+                            <li class="offcanvas-nav-item">
+                                <router-link to="/" class="offcanvas-nav-link" href="">
+                                    <img src="@/assets/images/sidebar/icon-login.svg" alt="icon-login">
+                                    <span>Login</span>
+                                </router-link>
+                            </li>
+<!--                            <li class="offcanvas-nav-item">
+                                <a class="offcanvas-nav-link" href="">
+                                    <img src="@/assets/images/sidebar/icon-personal-loans.svg"
+                                         alt="icon-personal-loans"><span>Personal Loans</span>
+                                </a>
+                            </li>-->
+                            <li class="offcanvas-nav-item">
+                                <router-link to="/business-loans" class="offcanvas-nav-link" href="">
+                                    <img src="@/assets/images/sidebar/icon-business-loans.svg" alt="icon-business-loans">
+                                    <span>Business Loans</span>
+                                </router-link>
+                            </li>
+<!--                            <li class="offcanvas-nav-item">
+                                <a class="offcanvas-nav-link" href="">
+                                    <img src="@/assets/images/sidebar/new-hm-01.svg" alt="new hm-01">
+                                    <span>Home Loans</span>
+                                </a>
+                            </li>-->
+                            <li class="offcanvas-nav-item">
+                                <router-link to="/howitworks" class="offcanvas-nav-link" href="">
+                                    <img src="@/assets/images/sidebar/icon-how-it-works.svg" alt="icon-how-it-works">
+                                    <span>How it Works</span>
+                                </router-link>
+                            </li>
+<!--                            <li class="offcanvas-nav-item">
+                                <a class="offcanvas-nav-link" href="">
+                                    <img src="@/assets/images/sidebar/icon-blog.svg" alt="icon-blog">
+                                    <span>Resources</span>
+                                </a>
+                            </li>
+                            <li class="offcanvas-nav-item">
+                                <a class="offcanvas-nav-link" href="">
+                                    <img src="@/assets/images/sidebar/icon-espanol.svg" alt="icon-espanol">
+                                    <span>En Español</span>
+                                </a>
+                            </li>-->
+                        </ul>
+                        <div>
+                            <button class="default-btn custom-btn mb-5">Apply Today</button>
+                        </div>
+                        <div class="call">
+                            <span class="talk-to-loan-text">Talk to a Loan Specialist</span>
+                            <a class="call-number" href="tel:8449562663">(844) 956-2663</a>
+                        </div>
+                    </div>
+                    <div class="buttons midle-content-offcanvas">
+                        <span class="code-line">
+                            <span class="code-line-text"> Enter Offer Code</span>
+                        </span>
+                        <div class="personal-btn-group">
+<!--                            <a href="">
+                                <button class="personal-btn-sidebar">
+                                    <img src="@/assets/images/sidebar/icon-personal-loans.svg"
+                                         alt="icon-personal-loans">Personal
+                                </button>
+                            </a>-->
+                            <a href="">
+                                <button class="personal-btn-sidebar">
+                                    <img src="@/assets/images/sidebar/icon-business-loans.svg"
+                                         alt="icon-business-loans">Business
+                                </button>
                             </a>
-                            <ul class="dropdown-menu" aria-labelledby="offcanvasNavbarDropdown">
-                                <li><a class="dropdown-item" href="#">Action</a></li>
-                                <li><a class="dropdown-item" href="#">Another action</a></li>
+                        </div>
+                    </div>
+
+                    <div class="footer">
+                        <img class="offcanvas-logo" src="@/assets/images/logo.png" alt="Logo Black">
+                        <div class="offcanvas-menu-items">
+                            <ul>
+                                <li> Company</li>
+
                                 <li>
-                                    <hr class="dropdown-divider">
+                                    <a href="">About Us</a>
                                 </li>
-                                <li><a class="dropdown-item" href="#">Something else here</a></li>
+                                <li>
+                                    <a href="">Contact Us</a>
+                                </li>
+                                <li>
+                                    <a href="">FAQ</a>
+                                </li>
+                                <li>
+                                    <a href="https://careers-loanme.icims.com/jobs/intro?branding">Careers</a>
+
+                                </li>
+                                <li>
+                                    <a href="">Reviews</a>
+                                </li>
+                                <li>
+                                    <a href="">Login</a>
+                                </li>
                             </ul>
-                        </li>
-                    </ul>
-                    <form class="d-flex">
-                        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-                        <button class="btn btn-outline-success" type="submit">Search</button>
-                    </form>
+                            <ul>
+                                <li> Legal</li>
+
+                                <li>
+                                    <a href="">Licenses &amp;
+                                        Disclosures</a>
+                                </li>
+                                <li>
+                                    <a href="">Credit Education</a>
+                                </li>
+                                <li>
+                                    <a href="">Mobile
+                                        Messaging</a>
+                                </li>
+                                <li>
+                                    <a href="">Fair Lending
+                                        Policy</a>
+                                </li>
+                                <li>
+                                    <a href="">Responsible
+                                        Lending</a>
+                                </li>
+                                <li>
+                                    <a href="">Privacy Policy</a>
+                                </li>
+                                <li>
+                                    <a href="">Terms</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -100,11 +201,12 @@
 </template>
 
 <script>
-import { useWindowSize } from 'vue-window-size';
+import {useWindowSize} from 'vue-window-size';
+
 export default {
     name: "Navbar",
     setup() {
-        const { width, height } = useWindowSize();
+        const {width, height} = useWindowSize();
         return {
             windowWidth: width,
             windowHeight: height,
@@ -113,7 +215,7 @@ export default {
     data() {
         return {
             scrollPosition: null,
-            isHover:false
+            isHover: false
         }
     },
     mounted() {
@@ -128,7 +230,7 @@ export default {
 </script>
 
 <style scoped>
-.navbar-brand{
+.navbar-brand {
     width: 150px;
 }
 </style>
